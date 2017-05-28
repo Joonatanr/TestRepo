@@ -1,0 +1,1 @@
+"./DisplayController.obj" "./ServoController.obj" "./display.obj" "./main.obj" "./misc.obj" "./register.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
